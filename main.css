@@ -1,0 +1,12 @@
+body {
+}
+.container {
+  background-color: blue;
+
+  text-align: center;
+  padding: 10px;
+}
+img {
+  width: 450px;
+  height: 320px;
+}
